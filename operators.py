@@ -87,11 +87,16 @@
 #     print(user_name)
 
 
-user_name = input("Enter your name")
-number = int(input("Enter number:" ))
-if(number < 10):
-    for each_name in range(1, number, +1):
-    print(user_name)
-else:
-    for each_message in range(1, 4)
-    print("Too High")
+# user_name = input("Enter your name")
+# number = int(input("Enter number:" ))
+# if(number < 10):
+#     for each_name in range(1, number, +1):
+#     print(user_name)
+# else:
+#     for each_message in range(1, 4)
+#     print("Too High")
+
+
+
+user_input = int(input("Enter a number bln 10 and 20"))
+while((user_input < 10) or) 
